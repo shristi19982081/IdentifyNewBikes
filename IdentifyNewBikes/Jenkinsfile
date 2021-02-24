@@ -1,0 +1,9 @@
+node {
+ stage('SCM checkout'){
+ https://github.com/shristi19982081/IdentifyNewBikes '
+ } 
+  stage ('Compile-Package')
+  {
+    sh 'maven package'
+    }
+}
