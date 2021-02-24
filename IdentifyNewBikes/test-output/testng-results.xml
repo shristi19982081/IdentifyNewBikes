@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="12" total="15" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-24T23:13:50 IST" name="IdentifyNewBikes" finished-at="2021-02-24T23:15:13 IST" duration-ms="83172">
+    <groups>
+    </groups>
+    <test started-at="2021-02-24T23:13:50 IST" name="UpcomingBikes" finished-at="2021-02-24T23:14:34 IST" duration-ms="43748">
+      <class name="TestUsingTestNG.UpcominBikeTest">
+        <test-method signature="testUpcomingBike()[pri:0, instance:TestUsingTestNG.UpcominBikeTest@6221a451]" started-at="2021-02-24T23:13:56 IST" name="testUpcomingBike" finished-at="2021-02-24T23:14:33 IST" duration-ms="36983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpcomingBike -->
+      </class> <!-- TestUsingTestNG.UpcominBikeTest -->
+      <class name="TestUsingTestNG.TestBase">
+        <test-method is-config="true" signature="initializeTest()[pri:0, instance:TestUsingTestNG.TestBase@2e6a8155]" started-at="2021-02-24T23:13:50 IST" name="initializeTest" finished-at="2021-02-24T23:13:56 IST" duration-ms="6465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTest -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:TestUsingTestNG.TestBase@2e6a8155]" started-at="2021-02-24T23:14:33 IST" name="closeDriver" finished-at="2021-02-24T23:14:34 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- TestUsingTestNG.TestBase -->
+    </test> <!-- UpcomingBikes -->
+    <test started-at="2021-02-24T23:14:34 IST" name="UsedCarsInChennai" finished-at="2021-02-24T23:14:59 IST" duration-ms="25726">
+      <class name="TestUsingTestNG.UsedCarsTest">
+        <test-method signature="testUsedCars()[pri:0, instance:TestUsingTestNG.UsedCarsTest@644baf4a]" started-at="2021-02-24T23:14:40 IST" name="testUsedCars" finished-at="2021-02-24T23:14:59 IST" duration-ms="18922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsedCars -->
+      </class> <!-- TestUsingTestNG.UsedCarsTest -->
+      <class name="TestUsingTestNG.TestBase">
+        <test-method is-config="true" signature="initializeTest()[pri:0, instance:TestUsingTestNG.TestBase@f78a47e]" started-at="2021-02-24T23:14:34 IST" name="initializeTest" finished-at="2021-02-24T23:14:40 IST" duration-ms="6615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTest -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:TestUsingTestNG.TestBase@f78a47e]" started-at="2021-02-24T23:14:59 IST" name="closeDriver" finished-at="2021-02-24T23:14:59 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- TestUsingTestNG.TestBase -->
+    </test> <!-- UsedCarsInChennai -->
+    <test started-at="2021-02-24T23:14:59 IST" name="GoogleSignIn" finished-at="2021-02-24T23:15:13 IST" duration-ms="13659">
+      <class name="TestUsingTestNG.GoogleSignInTest">
+        <test-method signature="testGoogleSignIn()[pri:0, instance:TestUsingTestNG.GoogleSignInTest@53fe15ff]" started-at="2021-02-24T23:15:04 IST" name="testGoogleSignIn" finished-at="2021-02-24T23:15:13 IST" duration-ms="8605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleSignIn -->
+      </class> <!-- TestUsingTestNG.GoogleSignInTest -->
+      <class name="TestUsingTestNG.TestBase">
+        <test-method is-config="true" signature="initBrowser()[pri:0, instance:TestUsingTestNG.TestBase@2e8c1c9b]" started-at="2021-02-24T23:13:49 IST" name="initBrowser" finished-at="2021-02-24T23:13:50 IST" duration-ms="1355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method is-config="true" signature="initializeTest()[pri:0, instance:TestUsingTestNG.TestBase@2e8c1c9b]" started-at="2021-02-24T23:14:59 IST" name="initializeTest" finished-at="2021-02-24T23:15:04 IST" duration-ms="4971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTest -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:TestUsingTestNG.TestBase@2e8c1c9b]" started-at="2021-02-24T23:15:13 IST" name="closeDriver" finished-at="2021-02-24T23:15:13 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="exitDriver()[pri:0, instance:TestUsingTestNG.TestBase@2e8c1c9b]" started-at="2021-02-24T23:15:13 IST" name="exitDriver" finished-at="2021-02-24T23:15:14 IST" duration-ms="796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitDriver -->
+      </class> <!-- TestUsingTestNG.TestBase -->
+    </test> <!-- GoogleSignIn -->
+  </suite> <!-- IdentifyNewBikes -->
+</testng-results>
